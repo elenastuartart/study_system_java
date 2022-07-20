@@ -22,7 +22,7 @@ public class Ural extends Motorbike {
         this.firstAidKit = firstAidKit;
     }
 
-    void showInfo() {
+    public void showInfo() {
         System.out.println(this.getName());
         System.out.println(this.getVolume());
 
