@@ -1,6 +1,6 @@
 package com.stuart.oop.motorbike;
 
-import com.stuart.oop.Transport;
+import com.stuart.oop.car.Transport;
 
 public class Motorbike extends Transport {
 

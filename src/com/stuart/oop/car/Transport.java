@@ -1,4 +1,4 @@
-package com.stuart.oop;
+package com.stuart.oop.car;
 
 public class Transport { // компилятор всегда как будто дописывает extends Object для самого верхнего объекта цепочки
 
